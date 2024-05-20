@@ -1,0 +1,180 @@
+*{
+
+margin: 0%;
+margin-left: 0%;
+margin-right: 0%;
+}
+
+#preheader{
+display: inline-block;
+width: 100%;
+background-color: #E83967;
+z-index: 1;
+}
+
+#livraison{
+display: inline-block;
+padding-left: 25px;
+}
+
+
+
+#mag{
+text-align: center;
+padding-left: 22cm;
+display: inline-block;
+}
+
+.pre{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 11px;
+padding-left: 40px;
+text-decoration: none;
+color: #ffffff;
+}
+
+.pre:hover{
+color: black;
+}
+
+
+
+
+.liv{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 13px;
+text-decoration: none;
+color: #ffffff;
+}
+
+
+
+
+#logos{
+padding-left: 28px;
+display: inline-block;
+width: 110px;
+height: 110px;
+}
+
+#logos img{
+width: 110px;
+height: 110px;
+}
+
+#header{  
+display: inline-block;
+background-color: transparent;
+width: 100%;
+z-index: 1;
+position: relative;
+}
+
+
+
+
+#headersuite{
+vertical-align: top;
+padding-top: 35px;
+display: inline-block;
+
+}
+
+
+#hein{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 13px;
+display: inline-block;
+padding-left: 5%;
+width: 100%;
+}
+
+
+#hein :hover{
+color: #E83967;
+}
+
+#hein2 :hover{
+color: #E83967;
+}
+    
+
+
+.lien2{
+color: rgb(255, 255, 255);
+text-decoration: none;
+padding: 16px;
+
+}
+
+#icon{
+display: inline-block;
+padding-left: 300px;
+}
+
+
+#icon img{
+width: 23px;   
+}
+
+.icon{
+padding-left: 15px;
+}
+
+#ligne{
+background-color: rgba(255, 255, 255, 0.521);
+height: 1px;
+width: 100%;
+margin: -10px;
+}
+
+#slider{
+border-top: #E83967;
+border: 40px;
+margin: -114px;
+padding-left: 24px;
+width: 1531px
+
+}
+
+
+
+
+
+.mySlides{
+filter: brightness(50%);
+width: 100%; 
+height: 100%;
+z-index: 7;
+}
+
+#LEFT{
+position: absolute;
+padding-left: 9%;
+top: 50%;
+}
+
+
+#RIGHT{
+text-align: right;
+position: absolute;
+padding-left: 101%;
+top: 50%;
+}
+.left{
+width: 50px;
+font-size: 50px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: #ffffff;
+border-color: transparent;
+background-color: transparent;
+}
+
+.right{
+width: 50px;
+font-size: 50px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: #ffffff;
+border-color: transparent;
+background-color: transparent;
+}
